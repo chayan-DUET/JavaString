@@ -52,5 +52,16 @@ public class StringClass {
         {
             System.out.println("s3 and s4 not same");
         }
+        
+        //--------------Buffer class-------------
+        StringBuffer sb=new StringBuffer("Dhaka");
+          sb.append(" Bangldesh");
+          System.out.println(sb);
+          
+          //---------------string-----------------
+          
+          String s="Dhaka";
+          s=s.concat(" Bangladesh");
+          System.out.println(s);
     }
 }

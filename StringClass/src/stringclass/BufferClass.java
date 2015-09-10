@@ -9,5 +9,6 @@ package stringclass;
  * @author Chayan_pc
  */
 public class BufferClass {
+
     
 }
