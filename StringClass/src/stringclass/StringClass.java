@@ -43,7 +43,7 @@ public class StringClass {
         
         String s3=new String("string");
         String s4=new String("string");
-        s3=s4;
+        //s3=s4;
         if(s3==s4)
         {
             System.out.println("s3 and s4 is same");
