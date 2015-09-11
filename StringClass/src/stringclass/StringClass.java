@@ -58,10 +58,17 @@ public class StringClass {
           sb.append(" Bangldesh");
           System.out.println(sb);
           
+          
           //---------------string-----------------
           
+                  
           String s="Dhaka";
           s=s.concat(" Bangladesh");
           System.out.println(s);
+          
+          //============buffer handel========another ck\cslass
+          BufferClass bf=new BufferClass();
+        bf.res();
+          //System.out.println(bf);
     }
 }
